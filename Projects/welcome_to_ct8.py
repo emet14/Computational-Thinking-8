@@ -22,3 +22,4 @@ print("\n\nWhen you have found the CARDINAL, click here, then use CTRL C to end 
 print("This is the new last instruction")
 mySprite2=codesters.Sprite("baseball",-250,250)
 mySprite3=codesters.Sprite("download",50,50)
+mySprite3=codesters.Sprite("milkjug",50,50)
